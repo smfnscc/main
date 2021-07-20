@@ -15,18 +15,7 @@
   }
 
 
-  .body{
-    
-    background-color:rgb(202, 200, 200);
-}
-
-#select2:checked ~ .body{
-    background-color:#060;
-}
-
-#select3:checked ~ .body{
-    background-color:#0000FF;
-}
+  
 
   /* On screens that are 880px wide or less, make the menu links stack on top of each other instead of next to each other */
   @media screen and (max-width: 880px) {
